@@ -1,6 +1,23 @@
 # Banking-Application-JSP
 _A banking application involving information of bank and maintaining customer account transaction and employee record._
 
+## Java Web Development
+_Java web development creates applications and websites using static and dynamic resources. The static resource refers to HTML pages with images, and a dynamic resource refers to classes, jars, Servlet, and JSP. Java web development uses several packages, files, and online links. Java web development requires web archive files known as a WAR files._
+
+_Java web development works on three main factors. These development factors show below._
+
+- **Front-end web development using Java technology.**
+- **Backend web development using Java server technology.**
+- **Database management using Java database driver.**
+
+_The above three factors create, update, remove, display and operate data or information._
+
+- **Front-end web development:** _The front-end technology interacts with the user and Java interface. It helps to insert and submit data. Java web development uses JavaServer Pages or JSP for the front-end form or table._
+
+- **Backend web development:** _The backend technology maintains and updates data of the database. Java uses Servlet, spring, and other advanced technology._
+
+- **Database Management:** _It handles or fetches data from the database using the Java database driver. The Java technology uses JDBC, Hibernate to handle the database._
+
 ## JSP : Java Server Pages
 - ***JSP technology is used to create web application just like Servlet technology. It can be thought of as an extension to Servlet because it provides more functionality than servlet such as expression language, JSTL, etc.***
 - ***A JSP page consists of HTML tags and JSP tags. The JSP pages are easier to maintain than Servlet because we can separate designing and development. It provides some additional features such as Expression Language, Custom Tags, etc.***
