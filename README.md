@@ -1,7 +1,7 @@
 # Banking-Application-JSP
 A banking application involving information of bank and maintaining customer account transaction and employee record.
 
-## JSP : Java ServLet Pages
+## JSP : Java Servlet Pages
 - ***JSP technology is used to create web application just like Servlet technology. It can be thought of as an extension to Servlet because it provides more functionality than servlet such as expression language, JSTL, etc.***
 - ***A JSP page consists of HTML tags and JSP tags. The JSP pages are easier to maintain than Servlet because we can separate designing and development. It provides some additional features such as Expression Language, Custom Tags, etc.***
 
