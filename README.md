@@ -36,4 +36,7 @@ _The above three factors create, update, remove, display and operate data or inf
   - _JSP are extended version of Servlet._
 
 ## GlassFish Server Open Source Edition
+
+![image](https://github.com/kinshuk-code-1729/Banking-Application-JSP/assets/90320839/7421843b-e5a0-4df5-99f6-b7ddc5388e5f)
+
 - ***GlassFish Server Open Source Edition is an open source application server built within the GlassFish community. Oracle GlassFish Server is based on GlassFish Server Open Source Edition. GlassFish Server users benefit from a vibrant community that offers self-support, contributes code and product features, product ideas and feedback, bug reports, and more. Useful community resources are outlined below.***
