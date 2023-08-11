@@ -4,6 +4,9 @@ _A banking application involving information of bank and maintaining customer ac
 ![image](https://github.com/kinshuk-code-1729/Banking-Application-JSP/assets/90320839/b7b87908-75cc-4e1a-b6cf-7cd56fc7d89d)
 
 ## Java Web Development
+
+![image](https://github.com/kinshuk-code-1729/Banking-Application-JSP/assets/90320839/231d5fee-9ec8-491d-8e87-dc80a5b5146e)
+
 _Java web development creates applications and websites using static and dynamic resources. The static resource refers to HTML pages with images, and a dynamic resource refers to classes, jars, Servlet, and JSP. Java web development uses several packages, files, and online links. Java web development requires web archive files known as a WAR files._
 
 _Java web development works on three main factors. These development factors show below._
