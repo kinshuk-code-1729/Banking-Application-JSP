@@ -1,6 +1,8 @@
 # Banking-Application-JSP
 _A banking application involving information of bank and maintaining customer account transaction and employee record._
 
+![image](https://github.com/kinshuk-code-1729/Banking-Application-JSP/assets/90320839/b7b87908-75cc-4e1a-b6cf-7cd56fc7d89d)
+
 ## Java Web Development
 _Java web development creates applications and websites using static and dynamic resources. The static resource refers to HTML pages with images, and a dynamic resource refers to classes, jars, Servlet, and JSP. Java web development uses several packages, files, and online links. Java web development requires web archive files known as a WAR files._
 
